@@ -17,15 +17,18 @@ youtube-dl is a public domain [meaning it is free to use and distribute] command
 ### Install keyboard shortcuts:
 Open Terminal. 
 
-Copy the following textbock and paste it into the Terminal window.
+Copy the following command and paste it into the Terminal window.
 ```
 cat>>~/.zshrc
+```
+Copy the following textblock and paste it into the Terminal:
+```
 alias y='youtube-dl --write-description'
 alias l='ls -alh'
 alias ..='cd ..'
 alias d='cd ~/Downloads'
 ```
-* Press, at the same time, the keyboard keys: [control] and [D]. // this writes the End-Of-File charater, everything above it, and closes the file.
+* Press, at the same time, the keyboard keys: [control] and [D]. // this writes the lines pasted along with the End-Of-File charater to the file.
 * Again, press: [control] and [D]. // this closes the Terminal shell session.
 
 Press, at the same time, the keyboard keys: [command] and [N]. // this opens a new Terminal window with a fresh shell session.
