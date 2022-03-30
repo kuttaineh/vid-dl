@@ -15,7 +15,13 @@ youtube-dl is a public domain [meaning it is free to use and distribute] command
 [youtube-dl](https://github.com/ytdl-org/youtube-dl#installation)
 
 ### Install keyboard shortcuts:
-Open Terminal. Copy the following textbock and paste it into the Terminal window.
+Open Terminal. 
+
+Type: 
+```
+touch .zshrc
+```
+Copy the following textbock and paste it into the Terminal window.
 ```
 cat>>~/.zshrc
 alias y='youtube-dl --write-description'
