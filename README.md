@@ -30,7 +30,9 @@ alias l='ls -alh'
 alias ..='cd ..'
 alias d='cd ~/Downloads'
 ```
-The follow steps require you to hold down two keyboard keys at once.
+Press [return].
+
+The following steps require you to hold down two keyboard keys at once.
 
 * Press, at the same time, the keyboard keys: [control] and [D]. // this writes the lines pasted along with the End-Of-File charater to the file.
 * Again, press: [control] and [D]. // this closes the Terminal shell session.
