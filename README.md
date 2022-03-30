@@ -3,6 +3,7 @@
 _This repository is instruction, tutorial, and shortcuts._
 
 (Written for the macOS platform; should work for GNU/Linux users as well.)
+
 [Windows instructions available if someone would like to fund the work.]
 
 ### Ever see something and think to yourself, ‘that won’t live long on the net.’ 
