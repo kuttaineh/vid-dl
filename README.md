@@ -8,7 +8,7 @@ Windows instructions can be written — if someone would like to fund the work.
 
 ### Ever see something and think to yourself, ‘that won’t live long on the net.’ 
 
-[youtube-dl](https://youtube-dl.org/) is a tool which allows you to download, extract, and keep a local copy of a video file from a [wide variety](https://github.com/ytdl-org/youtube-dl/blob/master/docs/supportedsites.md) of video sharing sites, not just YouTube. 
+[youtube-dl](https://youtube-dl.org/) is a tool which allows you to download and keep a local copy of a video file from a [wide variety](https://github.com/ytdl-org/youtube-dl/blob/master/docs/supportedsites.md) of video sharing sites, not just YouTube, just-in-case. 
 
 ### How do I do that?
 Through youtube-dl - a public domain, meaning it is free to use and distribute, command line software tool. Command line means you’ll have to use Terminal, unless you use a GUI front-end.
