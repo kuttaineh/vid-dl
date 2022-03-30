@@ -25,7 +25,7 @@ alias l='ls -alh'
 alias ..='cd ..'
 alias d='cd ~/Downloads'
 ```
-* Press, at the same time, the keyboard keys: [control] and [D]. // this prints the End-Of-File charater and closes the file.
+* Press, at the same time, the keyboard keys: [control] and [D]. // this writes the End-Of-File charater, everything above it, and closes the file.
 * Again, press: [control] and [D]. // this closes the Terminal shell session.
 
 Press, at the same time, the keyboard keys: [command] and [N]. // this opens a new Terminal window with a fresh shell session.
