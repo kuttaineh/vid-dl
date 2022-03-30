@@ -10,7 +10,7 @@ _This repository is instruction, tutorial, and shortcuts._
 [youtube-dl](https://youtube-dl.org/) is a tool which allows you to download, extract, and keep the video file from a [wide variety](https://github.com/ytdl-org/youtube-dl/blob/master/docs/supportedsites.md) of video sharing sites, not just YouTube. 
 
 ### How do I do that?
-youtube-dl is a public domain [meaning it is free to use and distribute] command line software tool. That means you’ll have to use Terminal, unless you use a GUI front-end.
+Through youtube-dl - a public domain, meaning it is free to use and distribute, command line software tool. Command line means you’ll have to use Terminal, unless you use a GUI front-end.
 
 ### Install: 
 [youtube-dl](https://github.com/ytdl-org/youtube-dl#installation)
