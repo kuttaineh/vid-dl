@@ -17,10 +17,6 @@ youtube-dl is a public domain [meaning it is free to use and distribute] command
 ### Install keyboard shortcuts:
 Open Terminal. 
 
-Type: 
-```
-touch .zshrc
-```
 Copy the following textbock and paste it into the Terminal window.
 ```
 cat>>~/.zshrc
@@ -29,10 +25,12 @@ alias l='ls -alh'
 alias ..='cd ..'
 alias d='cd ~/Downloads'
 ```
-Press, at the same time, the keyboard keys: [control] and [D]. 
-Again, press: [control] and [D].
+* Press, at the same time, the keyboard keys: [control] and [D]. // this prints the End-Of-File charater and closes the file.
+* Again, press: [control] and [D]. // this closes the Terminal shell session.
 
-Press, at the same time, the keyboard keys: [command] and [N]. 
+Press, at the same time, the keyboard keys: [command] and [N]. // this opens a new Terminal window with a fresh shell session.
+
+// “What's a shell?” A shell is an interface to your computer operating system's [user space](https://en.wikipedia.org/wiki/User_space_and_kernel_space). 
 
 ### Usage
 Once you have youtube-dl installed and the keyboard shorcuts available:
