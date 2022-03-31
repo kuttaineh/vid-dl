@@ -39,7 +39,7 @@ The following steps require you to hold down two keyboard keys at once.
 
 Press, at the same time, the keyboard keys: [command] and [N]. // this opens a new Terminal window with a fresh shell session.
 
-// “What's a shell?” In computing lingo, a shell is an interface to your computer operating system's [user space](https://www.computerhope.com/jargon/u/user-space.htm). 
+// “What's a shell?” In computing lingo, a shell is an interface to your computer operating system's [user space](https://techterms.com/definition/user_space). 
 
 ### Usage
 Once you have youtube-dl installed and the keyboard shorcuts available:
