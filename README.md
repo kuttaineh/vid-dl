@@ -49,4 +49,4 @@ Once you have youtube-dl installed and the keyboard shorcuts available:
 
 > ie. y [https://youtu.be/Li_MGFRNqOE](https://youtu.be/Li_MGFRNqOE)[return]
 
-To access any of your downloaded video contents simply launch Finder and click on your Downloads folder. Any and all of your downloaded video content will be in that folder unless you moved them or encountered an error. If you failed to press d[return] prior to pressing y [web address] then the video may be in your home directory. To check your home directory in Finder click the Go menu and select Home.
+To access any of video contents you've downloaded simply launch Finder and click on your Downloads folder. Any and all of the downloaded video content will be in that folder unless you moved them or encountered an error. If you failed to press d[return] prior to pressing y [web address] then the video may be in your home directory. To check your home directory in Finder click the Go menu and select Home.
