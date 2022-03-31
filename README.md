@@ -14,7 +14,7 @@ Windows instructions can be written — if someone would like to fund the work.
 Through youtube-dl - a public domain, meaning it is free to use and distribute, command line software tool. Command line means you’ll have to use [Terminal](https://support.apple.com/guide/terminal/welcome/mac), unless you use a GUI front-end.
 
 ## Install: 
-Follow any of the install options on [youtube-dl](https://github.com/ytdl-org/youtube-dl#installation) project page then, click back to this tutorial.
+Follow any of the install options from the [youtube-dl](https://github.com/ytdl-org/youtube-dl#installation) project page then, click back to this tutorial.
 
 ### Install keyboard shortcuts:
 Open Terminal. 
