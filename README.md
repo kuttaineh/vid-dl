@@ -36,7 +36,7 @@ The following steps require you to hold down two keyboard keys at once.
 
 * Press, at the same time, the keyboard keys: [control] and [D]. // this writes the lines pasted along with the End-Of-File charater to the file.
 * Again, press: [control] and [D]. // this closes the Terminal shell session.
-
+- - -
 Press, at the same time, the keyboard keys: [command] and [N]. // this opens a new Terminal window with a fresh shell session.
 
 // “What's a shell?” In computing lingo, a shell is an interface to your computer operating system's [user space](https://techterms.com/definition/user_space). 
