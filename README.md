@@ -6,14 +6,14 @@ _This repository is instruction, tutorial, and shortcuts._
 
 Windows instructions can be written — if someone would like to fund the work.
 
-### Ever see something and think, ‘that won’t live long on the net.’ 
+## Ever see something and think, ‘that won’t live long on the net.’ 
 
 [youtube-dl](https://youtube-dl.org/) is a tool which allows you to download and keep a local copy of a video file from a [wide variety](https://github.com/ytdl-org/youtube-dl/blob/master/docs/supportedsites.md) of video sharing sites, not just YouTube, just-in-case. 
 
 ### How do I do that?
 Through youtube-dl - a public domain, meaning it is free to use and distribute, command line software tool. Command line means you’ll have to use Terminal, unless you use a GUI front-end.
 
-### Install: 
+## Install: 
 [youtube-dl](https://github.com/ytdl-org/youtube-dl#installation)
 
 ### Install keyboard shortcuts:
@@ -37,9 +37,10 @@ The following steps require you to hold down two keyboard keys at once.
 * Press, at the same time, the keyboard keys: [control] and [D]. // this writes the lines pasted along with the End-Of-File charater to the file.
 * Again, press: [control] and [D]. // this closes the Terminal shell session.
 - - -
+## Now let's try it!
 Press, at the same time, the keyboard keys: [command] and [N]. // this opens a new Terminal window with a fresh shell session.
 
-// “What's a shell?” In computing lingo, a shell is an interface to your computer operating system's [user space](https://techterms.com/definition/user_space). 
+> “What's a shell?” In computing lingo, a shell is an interface to your computer operating system's [user space](https://techterms.com/definition/user_space). 
 
 ### Usage
 Once you have youtube-dl installed and the keyboard shorcuts available:
