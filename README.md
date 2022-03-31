@@ -34,8 +34,8 @@ Press [return].
 
 The following steps require you to hold down two keyboard keys at once.
 
-* Press, at the same time, the keyboard keys: [control] and [D]. // this writes the lines pasted along with the End-Of-File charater to the file.
-* Again, press: [control] and [D]. // this closes the Terminal shell session.
+* Press, at the same time, the keyboard keys: [control] and [D]. // appends the lines (above) pasted along with the End-Of-File (EOF) charater to the file.
+* Again, press: [control] and [D]. // In this context: EOF closes the Terminal shell session.
 - - -
 ## Now let's try it!
 Press, at the same time, the keyboard keys: [command] and [N]. // this opens a new Terminal window with a fresh shell session.
