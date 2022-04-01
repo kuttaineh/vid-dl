@@ -38,7 +38,7 @@ The following steps require you to hold down two keyboard keys at once.
 * Again, press: [control] and [D]. // In this context Terminal communicates [EOT](https://en.wikipedia.org/wiki/End-of-Transmission_character), not [EOF](https://en.wikipedia.org/wiki/End-of-file) as above, thus the shell session is ended.
 - - -
 ## Now let's try it!
-Press, at the same time, the keyboard keys: [command] and [N]. // this opens a new Terminal window with a fresh shell session.
+From within the Terminal.app press, at the same time, the keyboard keys: [command] and [N]. // this opens a new Terminal window with a fresh shell session — one where the aliases defined in .zshrc are ready to go.
 
 > “What's a shell?” In computing lingo, a shell is an interface to your computer operating system's [user space](https://techterms.com/definition/user_space). 
 
