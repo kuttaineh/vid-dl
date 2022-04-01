@@ -55,7 +55,7 @@ You should now see Downloads listed in your command prompt.
 
 Now try downloading a video:
 ```
-y [https://youtu.be/Li_MGFRNqOE](https://youtu.be/Li_MGFRNqOE)
+y https://youtu.be/Li_MGFRNqOE
 ```
 If nothing is happenning after you type the command then remember to press the [return] key at the end of the command.  
 
