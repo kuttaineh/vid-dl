@@ -35,7 +35,7 @@ Press [return].
 The following steps require you to hold down two keyboard keys at once.
 
 * Press, at the same time, the keyboard keys: [control] and [D]. // appends the lines (above) to the file.
-* Again, press: [control] and [D]. // In this context: [EOF](https://en.wikipedia.org/wiki/End-of-file) closes the Terminal shell session.
+* Again, press: [control] and [D]. // In this context Terminal communicates [EOT](https://en.wikipedia.org/wiki/End-of-Transmission_character), not [EOF](https://en.wikipedia.org/wiki/End-of-file) as above, thus the shell session is ended.
 - - -
 ## Now let's try it!
 Press, at the same time, the keyboard keys: [command] and [N]. // this opens a new Terminal window with a fresh shell session.
