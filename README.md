@@ -53,10 +53,10 @@ d
 ```
 You should now see Downloads listed in your command prompt.
 
+If nothing is happening after you type the command then remember to press the [return] key at the end of the command.  
+
 Now try downloading a video:
 ```
 y https://youtu.be/Li_MGFRNqOE
 ```
-If nothing is happening after you type the command then remember to press the [return] key at the end of the command.  
-
 To access any of videos you've downloaded simply launch Finder and click on your Downloads folder. Any and all of the downloaded video content will be in that folder unless you moved them or encountered an error. If you failed to press d[return] prior to pressing y [web address] then the video may be in your home directory. To check your home directory in Finder click the Go menu and select Home.
