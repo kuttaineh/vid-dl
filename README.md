@@ -44,7 +44,7 @@ From within the Terminal.app press, at the same time, the keyboard keys: [comman
 
 ### Usage
 Once you have youtube-dl installed and the keyboard shorcuts available:
-* start by always typing d [return]. // this will call up your computer account's Downloads directory (directory is synonomous with Folder).
+* start by typing d[return]. // this will call up your computer account's Downloads directory (directory is synonomous with Folder).
 * then, type y followed by the web address containing the video [return]. // this should allow you to download and extract the video along with producing a description file based upon the video's published description.
 
 If you don't already have a shell interface to your computer launch Terminal in order to gain one then, type:
