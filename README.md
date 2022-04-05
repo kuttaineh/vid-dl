@@ -59,4 +59,4 @@ Now try downloading a video:
 ```
 y https://youtu.be/Li_MGFRNqOE
 ```
-To access any of the videos you've downloaded simply launch Finder and click on your Downloads folder. Any and all of the downloaded video content will be in that folder unless you moved them or encountered an error. If you failed to press d[return] prior to pressing y <web address>[return] then the video may be in your home directory. To check your home directory in Finder: click the Go menu and select Home.
+To access any of the videos you've downloaded simply launch Finder and click on your Downloads folder. Any and all of the downloaded video content will be in that folder unless you moved them or encountered an error. If you failed to press d[return] prior to pressing y \<web address\>[return] then the video may be in your home directory. To check your home directory in Finder: click the Go menu and select Home.
