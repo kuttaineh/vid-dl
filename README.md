@@ -23,6 +23,8 @@ Copy the following command and paste it into the Terminal window.
 ```
 cat>>~/.zshrc
 ```
+Press [return].
+
 Copy the following textblock and paste it into the Terminal:
 ```
 alias y='youtube-dl --write-description'
