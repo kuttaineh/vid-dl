@@ -23,7 +23,7 @@ Copy the following command and paste it into the Terminal window.
 ```
 cat>>~/.zshrc
 ```
-Press [return].
+Press [return] (on some keyboards the button is labeled [enter]).
 
 Copy the following textblock and paste it into the Terminal:
 ```
