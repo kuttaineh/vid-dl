@@ -25,7 +25,7 @@ cat>>~/.zshrc
 ```
 Press [return] 
 
-Note: on some computer keyboards the [return] key is labeled [enter].
+> Note: on some computer keyboards the [return] key is labeled [enter].
 
 Copy the following textblock and paste it into the Terminal:
 ```
@@ -41,7 +41,7 @@ The following steps require you to hold down two keyboard keys at once.
 * Press, at the same time, the keyboard keys: [control] and [D]. // appends the lines (above) to the file.
 * Again, press: [control] and [D]. // In this context Terminal communicates [EOT](https://en.wikipedia.org/wiki/End-of-Transmission_character), not [EOF](https://en.wikipedia.org/wiki/End-of-file) as above, thus the shell session is ended.
 
-Note: on some computer keyboards [control] is abbreviated [ctrl]. 
+> Note: on some computer keyboards [control] is abbreviated [ctrl]. 
 - - -
 ## Now let's try it!
 From within the Terminal.app press, at the same time, the keyboard keys: [command] and [N]. // this opens a new Terminal window with a fresh shell session — one where the aliases defined in .zshrc are ready to go.
