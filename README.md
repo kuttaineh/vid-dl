@@ -72,3 +72,6 @@ Sometimes download of video from Twitter doesn't work because the default filena
 
 For error: "Error: Unable to extract uploader id"
 Apply fix found in comment containing "solved it temporarily (v2021.12.17) until there's a new update" found [here](https://stackoverflow.com/questions/75495800/error-unable-to-extract-uploader-id-youtube-discord-py).
+
+##### Finally:
+“If first you don't succeed: try, try again.”
