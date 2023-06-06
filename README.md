@@ -75,3 +75,5 @@ Apply fix found in comment containing "solved it temporarily (v2021.12.17) until
 
 ##### Finally:
 “If first you don't succeed: try, try again.”
+
+![Command didn't work on the first try; same command issuance worked on the second attempt.](example.png)
