@@ -77,3 +77,8 @@ Apply fix found in comment containing "solved it temporarily (v2021.12.17) until
 “If first you don't succeed: try, try again.”
 
 ![Command didn't work on the first try; same command issuance worked on the second attempt.](example.png)
+
+# yt-dlp
+A youtube-dl fork with additional features and fixes
+
+See [README](https://github.com/yt-dlp/yt-dlp#readme), [INSTALLATION](https://github.com/yt-dlp/yt-dlp/wiki/Installation).
