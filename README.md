@@ -107,3 +107,11 @@ Same as above only nano (editor) and source ~/.bashrc
 You should now see marked performance and interface improvements. 
 
 ![Command worked on first try.](yt-dlp.png)
+
+# Playing downloaded files
+
+## for macOS
+Recommending [IINA](https://iina.io/)
+
+## for Winddows & GNU/Linux, &c.
+Recommending [VLC](https://www.videolan.org/vlc/)
