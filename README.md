@@ -82,3 +82,26 @@ Apply fix found in comment containing "solved it temporarily (v2021.12.17) until
 A youtube-dl fork with additional features and fixes
 
 See [README](https://github.com/yt-dlp/yt-dlp#readme), [INSTALLATION](https://github.com/yt-dlp/yt-dlp/wiki/Installation).
+
+## modify y alias
+If you've installed yt-dlp then you'll need to update your y alias in your shell's runcom.
+
+### Gather info
+```
+echo $SHELL
+```
+Note the output of the command above.
+
+#### if /bin/zsh
+```
+nano ~/.zshrc
+```
+* Scroll to the alias line which defines y.
+* Change the command youtube-dl to yt-dlp
+* Type: ^X, followed by Y to save and exit.
+* Type:  source ~/.zshrc
+
+#### if /bin/bash
+Same as above only nano (editor) and source ~/.bashrc
+
+You should now see marked performance and interface improvements. 
