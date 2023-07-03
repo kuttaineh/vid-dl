@@ -113,5 +113,5 @@ You should now see marked performance and interface improvements.
 ## for macOS
 Recommending [IINA](https://iina.io/)
 
-## for Winddows & GNU/Linux, &c.
+## for Windows, GNU/Linux, &c.
 Recommending [VLC](https://www.videolan.org/vlc/)
