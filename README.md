@@ -104,7 +104,7 @@ nano ~/.zshrc
 * Type:  source ~/.zshrc
 
 #### if /bin/bash
-Same as above only nano (editor) and source ~/.bashrc
+Same as above only [edit, via] nano and source ~/.bashrc
 
 You should now see marked performance and interface improvements. 
 
