@@ -110,6 +110,8 @@ You should now see marked performance and interface improvements.
 
 ![Command worked on first try.](yt-dlp.png)
 
+![Will even download from Facebook.](from_fb.png)
+
 # Playing downloaded files
 
 ## for macOS
