@@ -33,6 +33,8 @@ alias y='youtube-dl --write-description'
 alias l='ls -alh'
 alias ..='cd ..'
 alias d='cd ~/Downloads'
+alias md='mkdir'
+alias ...='cd $_'
 ```
 Press [return].
 
