@@ -86,7 +86,7 @@ A youtube-dl fork with additional features and fixes
 See [README](https://github.com/yt-dlp/yt-dlp#readme), [INSTALLATION](https://github.com/yt-dlp/yt-dlp/wiki/Installation).
 
 ## modify y alias
-If you've installed yt-dlp then you'll need to update your y alias in your shell's runcom.
+If you've installed yt-dlp then you'll need to update your y alias in your shell's [runcom](https://en.wikipedia.org/wiki/RUNCOM).
 
 ### Gather info
 ```
