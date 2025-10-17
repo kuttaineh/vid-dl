@@ -30,7 +30,8 @@ Press [return]
 Copy the following textblock and paste it into the Terminal:
 ```
 alias y='youtube-dl --write-description'
-alias l='ls -alh'
+alias l='ls -lh'
+alias la='ls -alh'
 alias ..='cd ..'
 alias d='cd ~/Downloads'
 alias md='mkdir'
