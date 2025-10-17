@@ -1,6 +1,8 @@
-# ytdl
+# vid-dl
 
 _This repository is instruction, tutorial, and shortcuts._
+
+[update 2025/10/17: renamed repository from ytdl to vid-dl.]
 
 **Written for the macOS platform; should work for GNU/Linux users as well.**
 
