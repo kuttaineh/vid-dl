@@ -43,7 +43,7 @@ Press [return]
 
 Copy the following textblock and paste it into the Terminal:
 ```
-alias y='yt-dlp --write-description'
+alias y='~/.local/bin/yt-dlp --write-description'
 alias l='ls -lh'
 alias la='ls -alh'
 alias ..='cd ..'
