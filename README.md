@@ -1,6 +1,6 @@
 # vid-dl
 
-_This repository is instruction, tutorial, and shortcuts._
+_Instruction, tutorial, shortcuts, and examples._
 
 [update 2025/10/17: renamed repository from ytdl to vid-dl.]
 
