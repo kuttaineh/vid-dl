@@ -10,15 +10,15 @@ Windows instructions can be written — if someone would like to fund the work.
 
 ## Ever see something and think, ‘that won’t live long on the net.’ 
 
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) is a tool enabling you to locally store a backup copy of a video from a [wide variety](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) of video sharing sites, not just YouTube. 
+[yt-dlp](https://github.com/yt-dlp/yt-dlp#readme) is a tool enabling you to locally store a backup copy of a video from a [wide variety](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) of video sharing sites, not just YouTube. 
 
 ### How do I do that?
-Through yt-dlp - a public domain, meaning it is free to use and distribute, command line software tool. Command line means you’ll have to use [Terminal](https://support.apple.com/guide/terminal/welcome/mac), unless you use a GUI front-end.
+Through yt-dlp - a free and open, meaning it is free to use, distribute, and even examine the code, command line software tool. Command line means you’ll have to use [Terminal](https://support.apple.com/guide/terminal/welcome/mac), unless you use a GUI front-end.
 
 ## Install: 
-Open a Terminal:
+[Open a Terminal](https://search.brave.com/search?q=how+to+open+terminal+on+mac):
 
-Copy each line, paste it into the terminal, and press return after each pasting each of the following three lines:
+Copy each line, paste it into the terminal, and press return after pasting each of the individual following three lines:
 ```
 mkdir -p ~/.local/bin/
 ```
@@ -94,34 +94,6 @@ Apply fix found in comment containing "solved it temporarily (v2021.12.17) until
 “If first you don't succeed: try, try again.”
 
 ![Command didn't work on the first try; same command issuance worked on the second attempt.](example.png)
-
-# yt-dlp
-A youtube-dl fork with additional features and fixes
-
-See [README](https://github.com/yt-dlp/yt-dlp#readme), [INSTALLATION](https://github.com/yt-dlp/yt-dlp/wiki/Installation).
-
-## modify y alias
-If you've installed yt-dlp then you'll need to update your y alias in your shell's [runcom](https://en.wikipedia.org/wiki/RUNCOM).
-
-### Gather info
-```
-echo $SHELL
-```
-Note the output of the command above.
-
-#### if /bin/zsh
-```
-nano ~/.zshrc
-```
-* Scroll to the alias line which defines y.
-* Change the command youtube-dl to yt-dlp
-* Type: ^X, followed by Y to save and exit.
-* Type:  source ~/.zshrc
-
-#### if /bin/bash
-Same as above only [edit, via] nano and source ~/.bashrc
-
-You should now see marked performance and interface improvements. 
 
 ![Command worked on first try.](yt-dlp.png)
 
