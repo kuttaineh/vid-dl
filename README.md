@@ -31,8 +31,6 @@ chmod +x ~/.local/bin/yt-dlp
 Else, follow any of the install options from the offical [yt-dlp](https://github.com/yt-dlp/yt-dlp#installation) project page and then, click back to this tutorial.
 
 ### Install keyboard shortcuts:
-In the Terminal: 
-
 Copy the following command and paste it into the Terminal window.
 ```
 cat>>~/.zshrc
