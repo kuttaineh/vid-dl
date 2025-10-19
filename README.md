@@ -6,7 +6,7 @@ _Instruction, shortcuts, and examples._
 
 Windows instructions can be written — if someone would like to fund the work.
 
-## Ever see something and think, ‘that won’t live long on the net.’ 
+## Ever see something and think, “that won’t live long on the net.” 
 
 [yt-dlp](https://github.com/yt-dlp/yt-dlp#readme) is a tool enabling you to locally store a backup copy of a video from a [wide variety](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) of video sharing sites, not just YouTube. 
 
