@@ -83,9 +83,6 @@ To access any of the videos you've downloaded simply launch Finder and click on 
 #### Addendum: 
 Sometimes downloading a video from 𝕏 doesn't work because the default filename assigned is the full tweet — which often is too long to serve as a filename. In this situation add `--id` after the `y ` and before the url: ex. `y --id "https://x.com/FLSurgeonGen/status/1636707603915980803"` to name the video file after the tweet id.
 
-For error: "Error: Unable to extract uploader id"
-Apply fix found in comment containing "solved it temporarily (v2021.12.17) until there's a new update" found [here](https://stackoverflow.com/questions/75495800/error-unable-to-extract-uploader-id-youtube-discord-py).
-
 #### Examples:
 ![Command worked on first try.](yt-dlp.png)
 ![Will even download from Facebook.](from_fb.png)
