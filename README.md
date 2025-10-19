@@ -86,13 +86,8 @@ Sometimes downloading a video from 𝕏 doesn't work because the default filenam
 For error: "Error: Unable to extract uploader id"
 Apply fix found in comment containing "solved it temporarily (v2021.12.17) until there's a new update" found [here](https://stackoverflow.com/questions/75495800/error-unable-to-extract-uploader-id-youtube-discord-py).
 
-##### Finally:
-“If first you don't succeed: try, try again.”
-
-![Command didn't work on the first try; same command issuance worked on the second attempt.](example.png)
-
+#### Examples:
 ![Command worked on first try.](yt-dlp.png)
-
 ![Will even download from Facebook.](from_fb.png)
 
 # Playing downloaded files
