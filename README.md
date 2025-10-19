@@ -1,10 +1,8 @@
 # vid-dl
 
-_Instruction, tutorial, shortcuts, and examples._
+_Instruction, shortcuts, and examples._
 
-[update 2025/10/17: renamed repository from ytdl to vid-dl.]
-
-**Written for the macOS platform; should work for GNU/Linux users as well.**
+**Written for the macOS platform; ought to work for GNU/Linux users as well.**
 
 Windows instructions can be written — if someone would like to fund the work.
 
@@ -13,12 +11,12 @@ Windows instructions can be written — if someone would like to fund the work.
 [yt-dlp](https://github.com/yt-dlp/yt-dlp#readme) is a tool enabling you to locally store a backup copy of a video from a [wide variety](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) of video sharing sites, not just YouTube. 
 
 ### How do I do that?
-Through yt-dlp - an open source command line software tool you are free to use, examine, extend, and share with others. Command line means you’ll have to use [Terminal](https://support.apple.com/guide/terminal/welcome/mac), unless you use a GUI front-end.
+Through yt-dlp - an open source command line software tool you are free to use, examine, extend, and share with others. Command line means you’ll have to use [Terminal](https://support.apple.com/guide/terminal/welcome/mac), unless you utilize a GUI front-end.
 
 ## Install: 
 [Open a Terminal](https://search.brave.com/search?q=how+to+open+terminal+on+mac):
 
-Copy each line, paste it into the terminal, and press return after pasting each of the individual following three lines:
+Copy each line. Paste each into the terminal; and press return after pasting each of the individual following three lines:
 ```
 mkdir -p ~/.local/bin/
 ```
@@ -54,7 +52,7 @@ Press [return].
 The following steps require you to hold down two keyboard keys at once.
 
 * Press, at the same time, the keyboard keys: [control] and [D]. // appends the lines (above) to to your [.zshrc file](https://search.brave.com/search?q=what+is+a+.zshrc+file&source=desktop&conversation=bae7807b9a549037e86918&summary=1).
-* Again, press: [control] and [D]. // In this context, Terminal receives [EOT](https://en.wikipedia.org/wiki/End-of-Transmission_character), not [EOF](https://en.wikipedia.org/wiki/End-of-file) as above, thus the shell session is ended.
+* Again, press: [control] and [D]. // In this context, Terminal processes your input as an [EOT](https://en.wikipedia.org/wiki/End-of-Transmission_character), not [EOF](https://en.wikipedia.org/wiki/End-of-file) as above, thus the shell session is ended.
 
 > Note: on some computer keyboards [control] is abbreviated [ctrl]. 
 - - -
@@ -64,7 +62,7 @@ Launch a new Terminal window (Tap or click the Shell menu > New Window > New Win
 > “What's a shell?” In computing lingo, a shell is an interface to your computer operating system's [user space](https://techterms.com/definition/user_space). 
 
 ### Usage
-Once you have yt-dlp installed and the keyboard shorcuts available:
+Now that you have yt-dlp installed and the keyboard shorcuts available:
 * start by typing d[return]. // this will call up your computer account's Downloads directory (note: the word 'directory' is synonymous with the word Folder).
 * then, type y followed by a space, followed by a quotation mark ", followed by the web address containing the video, followed by another quotation mark ", and then press [return]. // your computer should now be downloading the video along with a description file based upon the video's published description—if a description was published with the video.
 
