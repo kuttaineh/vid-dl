@@ -63,8 +63,7 @@ Launch a new Terminal window (Tap or click the Shell menu > New Window > New Win
 
 ### Usage
 Now that you have yt-dlp installed and the keyboard shorcuts available:
-* start by typing d[return]. // this will call up your computer account's Downloads directory (note: the word 'directory' is synonymous with the word Folder).
-* then, type y followed by a space, followed by a quotation mark ", followed by the web address containing the video, followed by another quotation mark ", and then press [return]. // your computer should now be downloading the video along with a description file based upon the video's published description—if a description was published with the video.
+* Start by typing: d[return]. // this will call up your computer account's Downloads directory (note: the word 'directory' is synonymous with the word Folder).
 
 If you don't already have a shell interface to your computer launch Terminal in order to gain one then, type:
 ```
@@ -73,6 +72,7 @@ d
 You should now see Downloads listed in your command prompt.
 
 If nothing is happening after you type the command then remember to press the [return] key at the end of the command.  
+* Next: type y followed by a space, followed by a quotation mark ", followed by the web address containing the video, followed by another quotation mark ", and then press [return]. // your computer should now be downloading the video along with a description file based upon the video's published description—if a description was published with the video.
 
 Now try downloading a video:
 ```
