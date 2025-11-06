@@ -15,6 +15,7 @@ Through yt-dlp - an open source command line software tool you are free to use, 
 
 ## Install: 
 > Note: on some computer keyboards the [return] key is labeled [enter].
+
 [Open a Terminal](https://search.brave.com/search?q=how+to+open+terminal+on+mac):
 
 Copy each line. Paste each into the terminal; and press return after pasting each of the individual following three lines:
