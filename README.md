@@ -14,6 +14,7 @@ Windows instructions can be written — if someone would like to fund the work.
 Through yt-dlp - an open source command line software tool you are free to use, examine, extend, and share with others. Command line means you’ll have to use [Terminal](https://support.apple.com/guide/terminal/welcome/mac), unless you utilize a GUI front-end.
 
 ## Install: 
+> Note: on some computer keyboards the [return] key is labeled [enter].
 [Open a Terminal](https://search.brave.com/search?q=how+to+open+terminal+on+mac):
 
 Copy each line. Paste each into the terminal; and press return after pasting each of the individual following three lines:
@@ -34,8 +35,6 @@ Copy the following command and paste it into the Terminal window.
 cat>>~/.zshrc
 ```
 Press [return] 
-
-> Note: on some computer keyboards the [return] key is labeled [enter].
 
 Copy the following textblock and paste it into the Terminal:
 ```
