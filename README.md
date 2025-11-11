@@ -89,6 +89,14 @@ Sometimes downloading a video from 𝕏 doesn't work because the default filenam
 ![Command worked on first try.](yt-dlp.png)
 ![Will even download from Facebook.](from_fb.png)
 
+## Updating:
+Let's say you find the tool no longer working. Have you updated it lately? 
+Type:
+```
+yup
+```
+That's all there is to it. Take care folks!
+
 # Playing downloaded files
 
 ## for macOS
