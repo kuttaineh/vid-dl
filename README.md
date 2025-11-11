@@ -95,6 +95,8 @@ Type:
 ```
 yup
 ```
+Followed by [return] or [enter] (however it's labeled upon your keyboard.
+
 That's all there is to it. Take care folks!
 
 # Playing downloaded files
