@@ -67,10 +67,11 @@ Launch a new Terminal window (Tap or click the Shell menu > New Window > New Win
 Now that you have yt-dlp installed and the keyboard shorcuts available:
 * Start by typing: d[return]. // this will call up your computer account's Downloads directory (note: the word 'directory' is synonymous with the word Folder).
 
-If you don't already have a shell interface to your computer launch Terminal in order to gain one then, type:
+If you don't already have a shell interface to your computer then, launch Terminal (in order to gain one) and then, type:
 ```
 d
 ```
+Followed by [enter].
 You should now see Downloads listed in your command prompt.
 
 If nothing is happening after you type the command then remember to press the [return] key at the end of the command.  
