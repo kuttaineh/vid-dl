@@ -74,7 +74,7 @@ d
 Followed by [enter].
 You should now see Downloads listed in your command prompt.
 
-If nothing has happening after you type the command then, remember to press the [return] key at the end of the command–in order to actually input said command.  
+If nothing has happening after you type the command then, remember to press the [return] key at the end of the command–in order to actually execute said command.  
 * Next: type y followed by a space, followed by a quotation mark ", followed by the web address containing the video, followed by another quotation mark ", and then press [return]. // your computer should now be downloading the video along with a description file based upon the video's published description—if a description was published with the video. You will literally see output, with a dynamically running status of said video's download progress in realtime.
 
 Let's download a video:
