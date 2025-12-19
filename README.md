@@ -74,14 +74,17 @@ d
 Followed by [enter].
 You should now see Downloads listed in your command prompt.
 
-If nothing is happening after you type the command then remember to press the [return] key at the end of the command.  
-* Next: type y followed by a space, followed by a quotation mark ", followed by the web address containing the video, followed by another quotation mark ", and then press [return]. // your computer should now be downloading the video along with a description file based upon the video's published description—if a description was published with the video.
+If nothing has happening after you type the command then, remember to press the [return] key at the end of the command–in order to actually input said command.  
+* Next: type y followed by a space, followed by a quotation mark ", followed by the web address containing the video, followed by another quotation mark ", and then press [return]. // your computer should now be downloading the video along with a description file based upon the video's published description—if a description was published with the video. You will literally see output, with a dynamically running status of said video's download progress in realtime.
 
 Let's download a video:
+
 ```
 y "https://youtu.be/Li_MGFRNqOE"
 ```
-To access any of the videos you've downloaded simply launch Finder and click on your Downloads folder. Any and all of the downloaded video content will be in that folder unless you moved them or encountered an error. If you failed to type d[return] prior to typing y "specific_video_website_address"[return] then the video may be in your home directory. To check your home directory in Finder: click the Go menu and select Home.
+Followed by [return] or [enter]
+
+To access any of the videos you've downloaded simply launch Finder and click on your Downloads folder. Any and all of the downloaded video content will be in that folder unless you moved them or encountered an error. If you failed to type d[return] prior to typing y "specific_video_website_address"[return] then the video may be in your home directory. To check your home directory, in Finder: click the Go menu and select Home.
 
 #### Addendum: 
 Sometimes downloading a video from 𝕏 doesn't work because the default filename assigned is the full tweet — which often is too long to serve as a filename. In this situation add `--id` after the `y ` and before the url: ex. `y --id "https://x.com/FLSurgeonGen/status/1636707603915980803"` to name the video file after the tweet id.
