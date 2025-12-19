@@ -40,7 +40,7 @@ Press [return]
 Copy the following textblock and paste it into the Terminal:
 ```
 export PATH=~/.local/bin:$PATH
-alias yup='yt-dlp -U'
+alias yup='~/.local/bin/yt-dlp -U'
 alias y='~/.local/bin/yt-dlp --write-description'
 alias l='ls -lh'
 alias la='ls -alh'
