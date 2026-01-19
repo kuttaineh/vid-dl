@@ -11,7 +11,7 @@ Windows instructions can be written — if someone would like to fund the work.
 [yt-dlp](https://github.com/yt-dlp/yt-dlp#readme) is a tool enabling you to locally store a backup copy of a video from a [wide variety](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) of video sharing sites, not just YouTube. 
 
 ### How do I do that?
-Through yt-dlp - an open source command line software tool you are free to use, examine, extend, and share with others. Command line means you’ll have to use [Terminal](https://support.apple.com/guide/terminal/welcome/mac), unless you utilize a GUI front-end. Don't worry tho. Following these steps make the set up and use of the terminal to download videos from websites practically painless.
+Through yt-dlp - an open source command line software tool you are free to use, examine, extend, and share with others. Command line means you’ll have to use [Terminal](https://support.apple.com/guide/terminal/welcome/mac), unless you utilize a GUI front-end. Don't worry tho. Following these steps make the set up and use of the terminal to download videos from websites easy.
 
 ## Install: 
 > Note: on some computer keyboards the [return] key is labeled [enter].
