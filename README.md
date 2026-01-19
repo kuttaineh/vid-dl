@@ -74,13 +74,13 @@ d
 Followed by [enter].
 You should now see Downloads listed in your command prompt.
 
-If nothing has happening after you type any command then, remember to press the [return] key at the end of the command–in order to actually execute said command.  
+If nothing has happened after you type any command, then remember to press the [return] key at the end of the command–in order to actually execute said command.  
 * Next: type y followed by a space, followed by the web address containing the video, and then press [return]. // your computer should now be downloading the video along with a description file based upon the video's published description—if a description was published with the video. You will literally see output, with a dynamically running status of said video's download progress in realtime.
 
 #### Let's download a video:
-Start by inputing the following into the Terminal.
+Start by inputting the following into the Terminal.
 ```
-y "https://youtu.be/Li_MGFRNqOE"
+y https://youtu.be/Li_MGFRNqOE
 ```
 Followed by [return] or [enter].
 
