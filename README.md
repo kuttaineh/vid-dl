@@ -87,7 +87,7 @@ Followed by [return] or [enter].
 To access any of the videos you've downloaded, launch Finder and click on your Downloads folder. All downloaded video content will be stored in that folder, unless you have moved it or encountered an error. If you failed to type d[return] before typing y _specific_video_website_address_[return], then the video may be in your home directory. To check your home directory, in Finder: click the Go menu and select Home.
 
 #### Addendum: 
-Sometimes downloading a video from 𝕏 doesn't work because the default filename assigned is the full tweet — which often is too long to serve as a filename. In this situation add `--id` after the `y ` and before the url: ex. `y --id "https://x.com/FLSurgeonGen/status/1636707603915980803"` to name the video file after the tweet id.
+Sometimes downloading a video from 𝕏 doesn't work because the default filename assigned is the full tweet, which is often too long to serve as a filename. In this situation, add `--id` after the `y ` and before the URL: ex. `y --id https://x.com/FLSurgeonGen/status/1636707603915980803` to name the video file after the tweet id number.
 
 ## Examples:
 ![Command worked on first try.](yt-dlp.png)
